@@ -1,0 +1,19 @@
+h1{
+    color:white;
+    text-align: center;
+    border:3px solid red;
+    width:300px;
+    padding:20px;
+    margin: 200px auto;
+}
+.div{
+    color:blue;
+}
+/*
+body{
+    background-image: url("../images/1.jpg");
+}*/
+body{
+    background: url("../images/12.jpg") center center fixed;
+    background-size: cover;
+}
